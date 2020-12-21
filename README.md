@@ -8,7 +8,7 @@ about me
 - 🛸 Learning everyday currently working on a discord bot
 - 🏄🏼 I'm always looking for challenging projects
 - 🍭 I tend to share things about my code if they are friends of mine
-- 📬 How to reach me: You can dm me on discord SpecterIH#8000 or you can email me <a href="mailto:alishm1000@gmail.com"> Lets get in touch! 
+- 📬 How to reach me: You can dm me on discord SpecterIH#8000 or you can email me <a href="mailto:alishm1000@gmail.com">Let's get in touch!</a>
 - 🌂I live in england but planning to move to Spain or Norway in the upcoming years
   
   ### 𝗨𝗽𝗰𝗼𝗺𝗶𝗻𝗴 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 👌

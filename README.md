@@ -15,7 +15,7 @@ about me
   
   - 🤖 A minecraft fps client/hacked client
   - 🤖 A Discord bot adding rainbow roles
-  - 🤖 A software which can detect facial recognition
+  - 🤖 A software which can detect facial recognition (hopefully)
   - 🤖 A browser which can mine bitcoin (basically like brave browser but more customisable)
   
   Happy coding🤑

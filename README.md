@@ -18,4 +18,6 @@
 𝕋𝕙𝕒𝕟𝕜 𝕪𝕠𝕦 𝕗𝕠𝕣 𝕥𝕒𝕜𝕚𝕟𝕘 𝕪𝕠𝕦𝕣 𝕥𝕚𝕞𝕖 𝕣𝕖𝕒𝕕𝕚𝕟𝕘 𝕥𝕙𝕚𝕤 ✌️
   
 <img src="https://github-readme-stats.vercel.app/api?username=specterih&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=141414">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=specterih&theme=dark&hide_langs_below=1">
   

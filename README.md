@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello, Welcome To My Profile.</h1>
-<h3 align="center">My name is Andrew and I'm a Developer who has experience in both java script and C#.</h3>
+<h1 align="left">👋 Hello, Welcome To My Profile.</h1>
+<h3 align="left">My name is Andrew and I'm a Developer who has experience in both java script and C#.</h3>
 
 - 🔭 I’m currently working on [a discord bot called DemonicAir.](https://github.com/specterih/DemonicBot)
 

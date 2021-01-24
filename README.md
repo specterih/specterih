@@ -1,6 +1,6 @@
 ### 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲 𝗶𝘁'𝘀 𝗺𝗲 𝗦𝗽𝗲𝗰𝘁𝗲𝗿𝗜𝗵 👋
 
-about me
+     about me
 
 - 🎤 I am a Developer hoping to become a software engineer in the next upcoming years
 - 🛸 Learning everyday currently working on a discord bot

@@ -1,23 +1,25 @@
-### ℍ𝕚 𝕥𝕙𝕖𝕣𝕖 𝕨𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕡𝕣𝕠𝕗𝕚𝕝𝕖 👋
+<h1 align="center">👋 Hello, Welcome To My Profile.</h1>
+<h3 align="center">My name is Andrew and I'm a Developer who has experience in both java script and C#.</h3>
 
+- 🔭 I’m currently working on [a discord bot called DemonicAir.](https://github.com/specterih/DemonicBot)
 
-- 🎤 I am a Developer hoping to become a software engineer in the next upcoming years
-- 🛸 Learning everyday currently working on a discord bot
-- 🏄🏼 I'm always looking for challenging projects
-- 🍭 I tend to share things about my code if they are friends of mine
-- 📬 How to reach me: You can dm me on discord SpecterIH#8000 or you can email me <a href="mailto:alishm1000@gmail.com">Let's get in touch!</a>
-- 🌂I live in england but planning to move to Spain or Norway in the upcoming years
-  
-### 𝕌𝕡𝕔𝕠𝕞𝕚𝕟𝕘 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤 👌
-  
-- 🤖 A minecraft fps client/hacked client
-- 🤖 A Discord bot adding rainbow roles
-- 🤖 A software which can detect facial recognition (hopefully)
-- 🤖 A browser which can mine bitcoin (basically like brave browser but more customisable)
-  
-𝕋𝕙𝕒𝕟𝕜 𝕪𝕠𝕦 𝕗𝕠𝕣 𝕥𝕒𝕜𝕚𝕟𝕘 𝕪𝕠𝕦𝕣 𝕥𝕚𝕞𝕖 𝕣𝕖𝕒𝕕𝕚𝕟𝕘 𝕥𝕙𝕚𝕤 ✌️
-  
-<img src="https://github-readme-stats.vercel.app/api?username=specterih&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=141414">
+- 🌱 I’m currently learning **Cisco via www.cbtnuggets.com/**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=specterih&theme=dark&hide_langs_below=1">
-  
+- 🤝 I’m looking for help with [my discord bot](https://github.com/specterih/DemonicBot)
+
+- 👨‍💻 All of my projects are available at [https://github.com/specterih?tab=repositories](https://github.com/specterih?tab=repositories)
+
+- 📫 How to reach me **alishm1000@gmail.com**
+
+- ⚡ Fun fact **I've read all of the Lord Of The Rings book's in 2 days.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/spectreih" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="spectreih" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/exqide" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="exqide" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=specterih&show_icons=true&locale=en" alt="specterih" /></p>

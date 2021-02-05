@@ -12,6 +12,7 @@
 - 📫 How to reach me **alishm1000@gmail.com**
 
 - ⚡ Fun fact **I've read all of the Lord Of The Rings book's in 2 days.**
+- I copy code **BE CAREFUL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

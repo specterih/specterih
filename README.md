@@ -7,11 +7,8 @@
 
 - 🤝 I’m looking for help with [my discord bot](https://github.com/specterih/DemonicBot)
 
-- 👨‍💻 All of my projects are available at [https://github.com/specterih?tab=repositories](https://github.com/specterih?tab=repositories)
-
 - 📫 How to reach me **alishm1000@gmail.com**
 
-- ⚡ Fun fact **I've read all of the Lord Of The Rings book's in 2 days.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
